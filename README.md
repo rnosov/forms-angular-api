@@ -8,7 +8,7 @@
 Install the module with: `npm install forms-angular-api`
 
 ```js
-var forms-angular-api = require('forms-angular-api');
+var formsAngularApi = require('forms-angular-api');
 ```
 
 
