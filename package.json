@@ -1,6 +1,6 @@
 {
   "name": "forms-angular-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/forms-angular-api.js",
   "description": "Server side component of the forms-angular framework",
   "homepage": "https://github.com/rnosov/forms-angular-api",

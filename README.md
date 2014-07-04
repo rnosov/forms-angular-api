@@ -1,4 +1,4 @@
-# forms-angular-api [![Build Status](https://secure.travis-ci.org/rnosov/forms-angular-api.png?branch=master)](http://travis-ci.org/rnosov/forms-angular-api)
+# forms-angular-api
 
 > Server side component of the forms-angular framework
 
