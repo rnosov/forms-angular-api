@@ -1,0 +1,45 @@
+{
+  "name": "forms-angular-api",
+  "version": "0.0.1",
+  "main": "lib/forms-angular-api.js",
+  "description": "Server side component of the forms-angular framework",
+  "homepage": "https://github.com/rnosov/forms-angular-api",
+  "bugs": "https://github.com/rnosov/forms-angular-api/issues",
+  "author": {
+    "name": "Roman Nosov",
+    "email": "roman@infovite.com",
+    "url": "http://www.infovite.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rnosov/forms-angular-api"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "forms-angular-api",
+    "forms",
+    " angular",
+    " forms-angular"
+  ],
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "node.extend": "~1.0",
+    "async": "~0.2",
+    "mongoose": "~3.8.12"
+    },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^0.4.0",
+    "time-grunt": "^0.3.1",
+    "jshint-stylish": "^0.2.0",
+    "express": "^4.4.2"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
